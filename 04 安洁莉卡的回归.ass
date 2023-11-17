@@ -15,9 +15,9 @@ Video File: 04 安洁莉卡的回归.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.504167
-Scroll Position: 225
-Active Line: 94
-Video Position: 7825
+Scroll Position: 96
+Active Line: 108
+Video Position: 9190
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -125,24 +125,25 @@ Dialogue: 0,0:04:20.92,0:04:22.46,text,NTP,0,0,0,,这次的任务要注意点
 Dialogue: 0,0:04:23.25,0:04:24.67,text,NTP,0,0,0,,多观察她的情况
 Dialogue: 0,0:04:25.17,0:04:26.71,text,NTP,0,0,0,,嗯 我明白
 Dialogue: 0,0:04:32.92,0:04:38.65,Title,NTP,0,0,0,,{\pos(514.977,660.397)\fad(500,300)}安洁莉卡的回归
-Dialogue: 0,0:04:50.82,0:04:52.11,text,NTP,0,0,0,,吉安 你接下來有什麼計劃
-Dialogue: 0,0:04:52.74,0:04:55.62,text,NTP,0,0,0,,我準備去見一下以前的舊相識
-Dialogue: 0,0:04:56.24,0:04:57.41,text,NTP,0,0,0,,警察嗎
-Dialogue: 0,0:04:58.12,0:05:02.71,text,NTP,0,0,0,,我去別的地方調查帕達尼亞的米蘭派的情報
-Dialogue: 0,0:05:03.25,0:05:05.88,text,NTP,0,0,0,,那麼晚上就在旅館會合吧
+Dialogue: 0,0:04:50.82,0:04:52.15,text,NTP,0,0,0,,吉安先生接下来有什么计划？
+Dialogue: 0,0:04:52.74,0:04:55.85,text,NTP,0,0,0,,我要去见一下以前的朋友
+Dialogue: 0,0:04:56.24,0:04:57.41,text,NTP,0,0,0,,警察么...
+Dialogue: 0,0:04:58.12,0:05:02.84,text,NTP,0,0,0,,我找别的手段调查帕达尼亚的米兰派
+Dialogue: 0,0:05:03.25,0:05:06.02,text,NTP,0,0,0,,那就晚上在旅馆汇合吧
 Dialogue: 0,0:05:07.22,0:05:10.56,placeName,,0,0,0,,{\pos(160.822,533.636)}米兰国家警察市警总部
-Dialogue: 0,0:05:31.15,0:05:32.49,text,NTP,0,0,0,,你在這裡等著我
-Dialogue: 0,0:05:33.11,0:05:34.74,text,NTP,0,0,0,,要向他們說明就太花時間了
+Dialogue: 0,0:05:31.15,0:05:32.49,text,NTP,0,0,0,,你在这里等我吧
+Dialogue: 0,0:05:33.11,0:05:34.74,text,NTP,0,0,0,,带一个小孩可没法解释呢
 Dialogue: 0,0:05:35.45,0:05:36.07,text,NTP,0,0,0,,是
-Dialogue: 0,0:05:49.30,0:05:50.88,text,NTP,0,0,0,,摩洛警長 有客人找你
-Dialogue: 0,0:05:51.34,0:05:52.97,text,NTP,0,0,0,,我可不記得有這樣的預定
-Dialogue: 0,0:05:53.47,0:05:55.26,text,NTP,0,0,0,,給他說先給我預好時間再來
-Dialogue: 0,0:05:55.64,0:05:57.97,text,NTP,0,0,0,,那個 是托尼中士
-Dialogue: 0,0:05:58.85,0:05:59.77,text,NTP,0,0,0,,托尼
-Dialogue: 0,0:06:00.56,0:06:02.27,text,NTP,0,0,0,,是食蜜鳥的瑪魯高托尼嗎
-Dialogue: 0,0:06:09.32,0:06:11.69,text,NTP,0,0,0,,食蜜鳥是什麼
-Dialogue: 0,0:06:12.15,0:06:15.70,text,NTP,0,0,0,,特殊作戰中央部隊 Knox
-Dialogue: 0,0:06:16.49,0:06:19.74,text,NTP,0,0,0,,過去在這裡擔任實戰格鬥術的專家
+Dialogue: 0,0:05:49.30,0:05:51.06,text,NTP,0,0,0,,摩洛警官  有人找您
+Dialogue: 0,0:05:51.34,0:05:52.97,text,NTP,0,0,0,,我可不记得有这样的预定
+Dialogue: 0,0:05:53.47,0:05:55.26,text,NTP,0,0,0,,让他提前约好时间再来
+Dialogue: 0,0:05:55.52,0:05:58.03,text,NTP,0,0,0,,那个...是托尼中士
+Dialogue: 0,0:05:58.85,0:05:59.77,text,NTP,0,0,0,,托尼？
+Dialogue: 0,0:06:00.48,0:06:02.41,text,NTP,0,0,0,,是那个"剃刀头"马可·托尼吗
+Dialogue: 0,0:06:09.32,0:06:11.69,text,NTP,0,0,0,,剃刀头...是谁啊
+Dialogue: 0,0:06:12.07,0:06:15.70,text,NTP,0,0,0,,特殊作战中央部队NOCS的队员
+Dialogue: 0,0:06:12.34,0:06:15.86,comment,,0,0,0,,{\pos(14.124,50.579)}NOCS:意大利国家警察中央治安作战部队\N训练有素、装备精良的世界一流特种部队\N职责是打击恐怖分子和犯罪组织
+Dialogue: 0,0:06:16.49,0:06:19.82,text,NTP,0,0,0,,以前在这里担任过实战格斗术的教官
 Dialogue: 0,0:06:23.29,0:06:24.50,text,NTP,0,0,0,,喲 瑪魯高
 Dialogue: 0,0:06:25.83,0:06:26.88,text,NTP,0,0,0,,還真是好久不見了
 Dialogue: 0,0:06:29.21,0:06:31.30,text,NTP,0,0,0,,看到你精神這麼好真是太好了
@@ -360,4 +361,3 @@ Dialogue: 0,0:24:23.45,0:24:31.75,EDch,,0,0,0,,{\pos(190,650)\be1\fad(150,300)}�
 Dialogue: 0,0:24:23.45,0:24:31.75,EDjp,,0,0,0,,{\pos(190,680)\be1\fad(150,300)}力の限りを振り絞って
 Dialogue: 0,0:24:31.75,0:24:43.37,EDch,,0,0,0,,{\pos(190,650)\be1\fad(150,5000)}只因深知自己要好好活下去
 Dialogue: 0,0:24:31.75,0:24:43.37,EDjp,,0,0,0,,{\pos(190,680)\be1\fad(150,5000)}生きていくことを知るから
-
