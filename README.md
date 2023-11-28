@@ -1,0 +1,3 @@
+# gunslingergirl_season2_subtitle_ZH
+神枪少女第二季BD资源外挂字幕，翻译基于SOSG字幕组和台版漫画翻译。
+
