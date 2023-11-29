@@ -15,9 +15,9 @@ Video File: 04 安洁莉卡的回归.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.504167
-Scroll Position: 96
-Active Line: 108
-Video Position: 9190
+Scroll Position: 102
+Active Line: 116
+Video Position: 9993
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,14 +145,14 @@ Dialogue: 0,0:06:12.07,0:06:15.70,text,NTP,0,0,0,,特殊作战中央部队NOCS�
 Dialogue: 0,0:06:12.34,0:06:15.86,comment,,0,0,0,,{\pos(14.124,50.579)}NOCS:意大利国家警察中央治安作战部队\N训练有素、装备精良的世界一流特种部队\N职责是打击恐怖分子和犯罪组织
 Dialogue: 0,0:06:16.49,0:06:19.82,text,NTP,0,0,0,,以前在这里担任过实战格斗术的教官
 Dialogue: 0,0:06:23.29,0:06:24.50,text,NTP,0,0,0,,哟 马可
-Dialogue: 0,0:06:25.83,0:06:26.88,text,NTP,0,0,0,,真是好久不见啊
-Dialogue: 0,0:06:29.21,0:06:31.30,text,NTP,0,0,0,,看到你精神這麼好真是太好了
-Dialogue: 0,0:06:35.80,0:06:38.72,text,NTP,0,0,0,,聽說你眼睛受傷而辭職是真的嗎
-Dialogue: 0,0:06:39.35,0:06:40.97,text,NTP,0,0,0,,現在在做什麼工作啊
-Dialogue: 0,0:06:41.43,0:06:43.27,text,NTP,0,0,0,,內閣府打雜
-Dialogue: 0,0:06:44.27,0:06:45.60,text,NTP,0,0,0,,都是些不起眼的工作啦
-Dialogue: 0,0:06:51.40,0:06:52.57,text,NTP,0,0,0,,皮諾曹
-Dialogue: 0,0:06:54.15,0:06:55.70,text,NTP,0,0,0,,還真沒什麼印象的名字
+Dialogue: 0,0:06:25.83,0:06:27.07,text,NTP,0,0,0,,真是好久不见啊
+Dialogue: 0,0:06:29.21,0:06:31.30,text,NTP,0,0,0,,看到你别来无恙真是太好了
+Dialogue: 0,0:06:35.68,0:06:38.75,text,NTP,0,0,0,,听说你因为眼睛受伤辞职了是真的吗
+Dialogue: 0,0:06:39.35,0:06:40.97,text,NTP,0,0,0,,现在在做什么工作啊
+Dialogue: 0,0:06:41.43,0:06:43.27,text,NTP,0,0,0,,在内阁府打杂
+Dialogue: 0,0:06:44.27,0:06:45.60,text,NTP,0,0,0,,不起眼的工作罢了
+Dialogue: 0,0:06:51.40,0:06:52.57,text,NTP,0,0,0,,匹诺曹？
+Dialogue: 0,0:06:54.15,0:06:55.70,text,NTP,0,0,0,,还真没什么印象呢
 Dialogue: 0,0:06:57.03,0:06:59.95,text,NTP,0,0,0,,現在米蘭正進行大富翁的審判吧
 Dialogue: 0,0:07:00.66,0:07:02.74,text,NTP,0,0,0,,就是殺掉有關人士的傢伙
 Dialogue: 0,0:07:03.16,0:07:04.75,text,NTP,0,0,0,,哦 那件案件
