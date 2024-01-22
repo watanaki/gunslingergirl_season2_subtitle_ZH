@@ -14,10 +14,10 @@ Audio File: 07 卡特莉娜 复仇的循环.mp4
 Video File: 07 卡特莉娜 复仇的循环.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 106
-Active Line: 77
-Video Position: 11750
+Video Zoom Percent: 0.581944
+Scroll Position: 137
+Active Line: 197
+Video Position: 31079
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,17 +92,19 @@ Dialogue: 0,0:06:08.14,0:06:12.82,text,NTP,0,0,0,,我不认为他是和我一样
 Dialogue: 0,0:06:13.15,0:06:16.47,text,NTP,0,0,0,,他受到的指控有太多的疑点
 Dialogue: 0,0:06:22.68,0:06:25.52,text,NTP,0,0,0,,你今后有什么打算
 Dialogue: 0,0:06:33.66,0:06:35.00,text,NTP,0,0,0,,我可是不会收手的！
-Dialogue: 0,0:06:44.40,0:06:46.73,text,NTP,0,0,0,,好久不見 馬利諾福叔叔
-Dialogue: 0,0:06:48.00,0:06:50.47,text,NTP,0,0,0,,現在能獨當一面啊 卡特麗娜
-Dialogue: 0,0:06:51.38,0:06:57.57,text,NTP,0,0,0,,八年前你說要成為活動家時 我是覺得對你來說實在是太困難了
-Dialogue: 0,0:07:00.87,0:07:04.20,text,NTP,0,0,0,,之後關於你父親的案件有什麼新的發現嗎
-Dialogue: 0,0:07:04.39,0:07:07.03,text,NTP,0,0,0,,沒 現在對那件事已經...
-Dialogue: 0,0:07:08.37,0:07:11.34,text,NTP,0,0,0,,比起了解真相 復仇更重要啊
-Dialogue: 0,0:07:14.56,0:07:17.88,text,NTP,0,0,0,,聽說你現在和米蘭的柯里斯迪阿諾合作
-Dialogue: 0,0:07:18.33,0:07:18.83,text,NTP,0,0,0,,是的
-Dialogue: 0,0:07:19.35,0:07:20.40,text,NTP,0,0,0,,要小心 北方的獨立派在外面和政府對著幹
-Dialogue: 0,0:07:20.66,0:07:26.66,text,,0,0,0,,
-Dialogue: 0,0:07:27.41,0:07:30.05,text,NTP,0,0,0,,要小心不要捲入無謂的紛爭中啊
+Dialogue: 0,0:06:44.40,0:06:46.73,text,NTP,0,0,0,,好久不见  马利诺夫叔叔
+Dialogue: 0,0:06:48.00,0:06:50.47,text,NTP,0,0,0,,你现在是个能独当一面的人了啊  卡特莉娜
+Dialogue: 0,0:06:51.38,0:06:55.40,text,NTP,0,0,0,,八年前你说要当活动家
+Dialogue: 0,0:06:55.67,0:06:57.57,text,,0,0,0,,我还觉得那对你来说太难了
+Dialogue: 0,0:07:00.87,0:07:04.20,text,NTP,0,0,0,,那之后关于你父亲的案件有什么进展吗
+Dialogue: 0,0:07:04.39,0:07:07.03,text,NTP,0,0,0,,不... 那件事现在已经...
+Dialogue: 0,0:07:08.34,0:07:11.13,text,NTP,0,0,0,,比起揭露真相  还是复仇更重要么...
+Dialogue: 0,0:07:14.56,0:07:17.88,text,NTP,0,0,0,,听说你现在是和米兰的克利斯提亚诺合作是吗
+Dialogue: 0,0:07:18.35,0:07:18.86,text,NTP,0,0,0,,是的
+Dialogue: 0,0:07:19.35,0:07:20.40,text,NTP,0,0,0,,要多加小心啊
+Dialogue: 0,0:07:20.66,0:07:24.16,text,,0,0,0,,北方的独立派对外跟政府对抗的同时
+Dialogue: 0,0:07:24.16,0:07:26.64,text,,0,0,0,,内部的各个派系也在进行权力斗争
+Dialogue: 0,0:07:27.41,0:07:30.05,text,NTP,0,0,0,,不要卷入他们那些无谓的纷争
 Dialogue: 0,0:07:44.53,0:07:46.19,text,NTP,0,0,0,,喂 杰里米亞
 Dialogue: 0,0:07:47.18,0:07:49.31,text,NTP,0,0,0,,那女人是福蘭卡
 Dialogue: 0,0:07:49.44,0:07:50.58,text,NTP,0,0,0,,你說什麼
@@ -195,11 +197,11 @@ Dialogue: 0,0:16:48.27,0:16:49.19,text,NTP,0,0,0,,馬特伊阿斯
 Dialogue: 0,0:17:43.75,0:17:45.92,text,NTP,0,0,0,,徒弟？你吗？
 Dialogue: 0,0:17:46.06,0:17:49.44,text,NTP,0,0,0,,你是叫尼诺的吧  有什么好笑的
 Dialogue: 0,0:17:52.18,0:17:56.64,text,NTP,0,0,0,,没想到富兰克会去教女人做事呢  是吧大哥
-Dialogue: 0,0:17:57.25,0:18:00.56,text,NTP,0,0,0,,你不是说已经不做炸弹了吗
-Dialogue: 0,0:18:00.85,0:18:02.16,text,NTP,0,0,0,,怎么突然变主意了
-Dialogue: 0,0:18:02.69,0:18:03.81,text,NTP,0,0,0,,难道是一见钟情？
-Dialogue: 0,0:18:04.24,0:18:05.46,text,NTP,0,0,0,,真是没礼貌的家伙
-Dialogue: 0,0:18:05.68,0:18:07.17,text,NTP,0,0,0,,我们走吧  富兰克
+Dialogue: 0,0:17:57.34,0:18:00.56,text,NTP,0,0,0,,你不是说已经不做炸弹了吗
+Dialogue: 0,0:18:00.85,0:18:01.98,text,NTP,0,0,0,,怎么突然变主意了
+Dialogue: 0,0:18:02.69,0:18:03.61,text,NTP,0,0,0,,难道是一见钟情？
+Dialogue: 0,0:18:04.24,0:18:05.27,text,NTP,0,0,0,,真是没礼貌的家伙
+Dialogue: 0,0:18:05.68,0:18:07.10,text,NTP,0,0,0,,我们走吧  富兰克
 Dialogue: 0,0:18:07.63,0:18:09.52,text,NTP,0,0,0,,哎呀 别着急啊这位小姐
 Dialogue: 0,0:18:10.18,0:18:10.81,text,NTP,0,0,0,,你叫什么名字
 Dialogue: 0,0:18:12.48,0:18:13.27,text,NTP,0,0,0,,她叫芙兰卡
