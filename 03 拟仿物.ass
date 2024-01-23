@@ -21,9 +21,9 @@ Video File: 03 拟仿物.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.543056
-Scroll Position: 283
-Active Line: 301
-Video Position: 36720
+Scroll Position: 140
+Active Line: 102
+Video Position: 11512
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -118,7 +118,7 @@ Dialogue: 0,0:04:57.33,0:04:59.50,text,NTP,0,0,0,,早安  合榭先生
 Dialogue: 0,0:05:06.17,0:05:07.46,text,NTP,0,0,0,,早上好  特丽耶拉
 Dialogue: 0,0:05:08.08,0:05:09.00,text,NTP,0,0,0,,我们出发吧
 Dialogue: 0,0:05:11.20,0:05:17.02,Title,,0,0,0,,{\pos(378.851,243.959)\fad(800,500)}拟仿物
-Dialogue: 0,0:05:50.97,0:05:51.97,text,NTP,0,0,0,,蒙塔奇诺啊
+Dialogue: 0,0:05:50.82,0:05:51.97,text,NTP,0,0,0,,蒙塔奇诺啊
 Dialogue: 0,0:05:53.34,0:05:55.97,text,NTP,0,0,0,,感觉像是在托斯卡纳州的正中央呢
 Dialogue: 0,0:06:00.23,0:06:02.44,text,NTP,0,0,0,,总感觉这里没有我的容身之所
 Dialogue: 0,0:06:03.35,0:06:04.27,text,NTP,0,0,0,,无法冷静下来呢
@@ -235,7 +235,7 @@ Dialogue: 0,0:15:07.65,0:15:08.56,text,NTP,0,0,0,,皮诺！
 Dialogue: 0,0:15:09.44,0:15:10.60,text,NTP,0,0,0,,我不是警告过你了吗
 Dialogue: 0,0:15:11.33,0:15:12.89,text,,0,0,0,,不要接近我
 Dialogue: 0,0:15:15.32,0:15:16.74,text,NTP,0,0,0,,皮诺...为什么
-Dialogue: 0,0:15:17.28,0:15:18.70,text,NTP,0,0,0,,皮诺  求求你
+Dialogue: 0,0:15:17.28,0:15:18.70,text,NTP,0,0,0,,皮诺 求求你
 Dialogue: 0,0:15:19.45,0:15:21.58,text,NTP,0,0,0,,我不是说了不要再缠着我了吗
 Dialogue: 0,0:15:22.53,0:15:23.41,text,NTP,0,0,0,,这下糟了
 Dialogue: 0,0:15:24.08,0:15:25.21,text,NTP,0,0,0,,女孩被抓住了

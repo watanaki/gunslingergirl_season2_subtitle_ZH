@@ -20,10 +20,10 @@ Audio File: 02 匹诺曹.mp4
 Video File: 02 匹诺曹.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.522222
-Scroll Position: 295
-Active Line: 303
-Video Position: 33579
+Video Zoom Percent: 0.520833
+Scroll Position: 117
+Active Line: 122
+Video Position: 16195
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -166,9 +166,9 @@ Dialogue: 0,0:10:42.65,0:10:46.21,text,NTP,0,0,0,,前天处理掉那个法官的
 Dialogue: 0,0:10:46.83,0:10:50.00,text,NTP,0,0,0,,没有白养他呢...
 Dialogue: 0,0:10:53.59,0:10:58.39,text,NTP,0,0,0,,关于前天在热那亚派对上失踪的贝尔蒂尼法官
 Dialogue: 0,0:10:58.80,0:11:00.68,text,NTP,0,0,0,,相关搜查工作现在仍在进行
-Dialogue: 0,0:11:02.02,0:11:02.72,text,NTP,0,0,0,,据猜测
-Dialogue: 0,0:11:02.72,0:11:09.23,text,NTP,0,0,0,,法官可能是因为负责五共和国派的支持者米兰富翁比利亚齐的逃税案
-Dialogue: 0,0:11:09.23,0:11:11.53,text,NTP,0,0,0,,才会遭到北部独立派的绑架
+Dialogue: 0,0:11:01.83,0:11:05.96,text,NTP,0,0,0,,法官此前正负责审判米兰富翁比利亚齐的逃税案
+Dialogue: 0,0:11:06.19,0:11:09.06,text,NTP,0,0,0,,而比利亚齐正是因为支持五共和国派而出名
+Dialogue: 0,0:11:09.23,0:11:11.53,text,NTP,0,0,0,,可能因此才遭到北部独立派的绑架
 Dialogue: 0,0:11:11.78,0:11:14.71,text,NTP,0,0,0,,当地警方正在扩大搜查范围...
 Dialogue: 0,0:11:43.60,0:11:44.30,text,NTP,0,0,0,,芙兰卡
 Dialogue: 0,0:11:44.92,0:11:46.58,text,,0,0,0,,有克利斯提亚诺的联络
@@ -193,7 +193,7 @@ Dialogue: 0,0:12:39.32,0:12:40.57,text,NTP,0,0,0,,听说身手不错
 Dialogue: 0,0:12:41.11,0:12:42.28,text,NTP,0,0,0,,是么...
 Dialogue: 0,0:13:19.90,0:13:20.65,text,NTP,0,0,0,,皮诺！
 Dialogue: 0,0:13:21.45,0:13:21.91,text,NTP,0,0,0,,喲
-Dialogue: 0,0:13:23.53,0:13:24.97,text,NTP,0,0,0,,你回来啦  
+Dialogue: 0,0:13:23.53,0:13:24.97,text,NTP,0,0,0,,你回来啦
 Dialogue: 0,0:13:24.97,0:13:27.14,text,,0,0,0,,皮诺不在的时候我好无聊哦
 Dialogue: 0,0:13:30.79,0:13:34.35,text,NTP,0,0,0,,妈妈说你应该快回来了
 Dialogue: 0,0:13:34.35,0:13:36.84,text,NTP,0,0,0,,所以买了很多火腿和香肠哟
@@ -227,7 +227,7 @@ Dialogue: 0,0:15:41.18,0:15:43.09,text,NTP,0,0,0,,你真的是意大利人？
 Dialogue: 0,0:15:44.92,0:15:46.26,text,NTP,0,0,0,,这也是女孩子么...
 Dialogue: 0,0:15:48.26,0:15:49.41,text,NTP,0,0,0,,你们是兄妹？
 Dialogue: 0,0:15:50.34,0:15:52.37,text,NTP,0,0,0,,他是我的搭档
-Dialogue: 0,0:15:52.89,0:15:54.22,text,,0,0,0,,也是我的保镖 
+Dialogue: 0,0:15:52.89,0:15:54.22,text,,0,0,0,,也是我的保镖
 Dialogue: 0,0:15:54.22,0:15:55.71,text,,0,0,0,, 还是教我炸弹技术的老师
 Dialogue: 0,0:15:56.52,0:15:57.89,text,NTP,0,0,0,,我们没有血缘关系
 Dialogue: 0,0:16:40.99,0:16:43.48,text,NTP,0,0,0,,匹诺曹还真是个有趣的名字呢
