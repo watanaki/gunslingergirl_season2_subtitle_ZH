@@ -15,9 +15,9 @@ Video File: 09 灵巧之蛇 驯良之鸽.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.563889
-Scroll Position: 250
-Active Line: 255
-Video Position: 34994
+Scroll Position: 244
+Active Line: 251
+Video Position: 29871
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -231,7 +231,7 @@ Dialogue: 0,0:14:55.18,0:14:58.45,comment,,0,0,0,,{\pos(12.247,15.961)}取自马
 Dialogue: 0,0:14:59.32,0:15:00.43,text,NTP,0,0,0,,那是什么
 Dialogue: 0,0:15:03.26,0:15:05.96,text,NTP,0,0,0,,为了在严苛的世界中生活应抱有的心态
 Dialogue: 0,0:15:08.06,0:15:09.71,text,NTP,0,0,0,,说起来真简单啊
-Dialogue: 0,0:15:11.47,0:15:14.09,text,NTP,0,0,0,,凡事考虑的细致不是坏事
+Dialogue: 0,0:15:11.47,0:15:14.09,text,NTP,0,0,0,,凡事考虑得细致不是坏事
 Dialogue: 0,0:15:15.30,0:15:17.76,text,NTP,0,0,0,,但你也不必认为自己的行为很可耻
 Dialogue: 0,0:15:15.95,0:15:20.50,comment,,0,0,0,,{\pos(-0.18,58.522)}「能将伪善做得彻底也算是一种美德」
 Dialogue: 0,0:15:15.95,0:15:20.50,comment,,0,0,0,,{\pos(-0.18,21.281)}「如果无法表现的自然 即使是演戏也无所谓啊」
@@ -282,13 +282,13 @@ Dialogue: 0,0:19:01.19,0:19:02.83,text,NTP,0,0,0,,嗯  就是这样
 Dialogue: 0,0:19:10.59,0:19:13.91,text,NTP,0,0,0,,像蛇一样灵巧...么
 Dialogue: 0,0:19:17.36,0:19:21.58,placeName,NTP,0,0,0,,{\pos(220.387,651.97)}罗马歌剧院
 Dialogue: 0,0:20:02.49,0:20:03.13,placeName,,0,0,0,,
-Dialogue: 0,0:20:03.28,0:20:06.08,text,NTP,0,0,0,,將事物思考得細致些也沒什麼壞處
-Dialogue: 0,0:20:08.21,0:20:10.71,text,NTP,0,0,0,,並且沒必要覺得狡猾的行動很可恥
-Dialogue: 0,0:20:12.54,0:20:14.27,text,NTP,0,0,0,,那個 喬澤先生
+Dialogue: 0,0:20:03.28,0:20:06.08,text,NTP,0,0,0,,凡事考虑得细致不是坏事
+Dialogue: 0,0:20:08.21,0:20:10.71,text,NTP,0,0,0,,但你也不必认为自己的行为很可耻
+Dialogue: 0,0:20:12.54,0:20:14.27,text,NTP,0,0,0,,那个  乔瑟先生
 Dialogue: 0,0:20:33.36,0:20:34.29,text,NTP,0,0,0,,很漂亮哦
-Dialogue: 0,0:20:35.42,0:20:36.36,text,NTP,0,0,0,,喬澤先生
+Dialogue: 0,0:20:35.42,0:20:36.36,text,NTP,0,0,0,,乔瑟先生
 Dialogue: 0,0:20:37.78,0:20:39.06,text,NTP,0,0,0,,好了 去吧
-Dialogue: 0,0:20:39.46,0:20:40.06,text,NTP,0,0,0,,是
+Dialogue: 0,0:20:39.46,0:20:40.06,text,NTP,0,0,0,,好的！
 Dialogue: 0,0:22:00.92,0:22:02.92,comment,,0,0,0,,
 Dialogue: 0,0:22:02.92,0:22:05.09,comment,,0,0,0,,{\pos(10.579,19.507)}The Elfin Knight --苏格兰民谣,斯卡布罗集市歌词灵感来自于该民谣
 Dialogue: 0,0:22:04.41,0:22:05.18,text,NTP,0,0,0,,我回来了
@@ -303,7 +303,7 @@ Dialogue: 0,0:22:21.16,0:22:22.06,text,NTP,0,0,0,,呐  莉可
 Dialogue: 0,0:22:22.30,0:22:22.88,text,NTP,0,0,0,,嗯？
 Dialogue: 0,0:22:23.52,0:22:24.44,text,NTP,0,0,0,,你感动吗？
 Dialogue: 0,0:22:25.52,0:22:27.61,text,NTP,0,0,0,,声音很大  吓了我一跳呢
-Dialogue: 0,0:22:30.50,0:22:31.32,text,NTP,0,0,0,,听我说 莉可 
+Dialogue: 0,0:22:30.50,0:22:31.32,text,NTP,0,0,0,,听我说 莉可
 Dialogue: 0,0:22:31.87,0:22:36.05,text,,0,0,0,,乔瑟先生说我穿这身礼服很漂亮呢！
 Dialogue: 0,0:22:36.37,0:22:37.91,text,NTP,0,0,0,,太好了呢  海莉艾塔
 Dialogue: 0,0:22:38.37,0:22:40.93,text,NTP,0,0,0,,吉安先生只说不适合我
