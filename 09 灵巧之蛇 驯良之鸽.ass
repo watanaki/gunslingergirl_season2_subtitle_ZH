@@ -15,9 +15,9 @@ Video File: 09 灵巧之蛇 驯良之鸽.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.563889
-Scroll Position: 244
-Active Line: 251
-Video Position: 29871
+Scroll Position: 144
+Active Line: 165
+Video Position: 19186
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -201,7 +201,7 @@ Dialogue: 0,0:13:15.48,0:13:18.08,text,NTP,0,0,0,,只是以前陪别人看过罢
 Dialogue: 0,0:13:18.08,0:13:20.81,comment,,0,0,0,,{\pos(1.595,23.054)}「然后呢 这个故事后来怎么样了?」
 Dialogue: 0,0:13:19.31,0:13:20.81,comment,,0,0,0,,{\pos(3.37,65.615)}「...... 不知道  我忘了」
 Dialogue: 0,0:13:21.08,0:13:25.09,text,NTP,0,0,0,,托斯卡这出戏到最后登场人物全死掉了
-Dialogue: 0,0:13:20.21,0:13:25.23,placeName,,0,0,0,,{\pos(691.483,525.566)}圣安德烈大教堂
+Dialogue: 0,0:13:20.21,0:13:25.23,placeName,,0,0,0,,{\pos(333.367,651.477)}罗马 圣安德烈大教堂
 Dialogue: 0,0:13:25.60,0:13:27.68,text,NTP,0,0,0,,就和其他意大利歌剧一样
 Dialogue: 0,0:13:28.09,0:13:30.30,text,,0,0,0,,病死 自杀 复仇
 Dialogue: 0,0:13:31.27,0:13:32.64,text,NTP,0,0,0,,总之就是会死人
